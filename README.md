@@ -235,6 +235,4 @@ Both controllers implement comprehensive error handling:
 - Connection pooling for MySQL
 - Error messages don't expose sensitive information
 
-## License
 
-ISC
